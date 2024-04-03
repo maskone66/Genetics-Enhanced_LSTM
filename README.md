@@ -1,2 +1,2 @@
 # Genetics-Enhanced_LSTM
-This repo contains a Python notebook i
+This repo contains a Python notebook impl
